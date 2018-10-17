@@ -10,7 +10,7 @@ body{
 .popover{
   position: absolute;
   display: none;
-  left: 10px;
+  left: 100px;
   top: 0;
   border: 1px solid green;
   white-space: nowrap;

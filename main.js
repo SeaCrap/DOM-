@@ -14,7 +14,6 @@
 //    console.log('隐藏')
 //  })   
 //}
-window.onload = function(){
   $(clickMe).on('click',(e)=>{
     $(popover).show()
     setTimeout(function(){
@@ -23,5 +22,5 @@ window.onload = function(){
       })
     },0)
   })  
-}
+
 
